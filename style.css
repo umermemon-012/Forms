@@ -1,0 +1,14 @@
+body{
+ background-color: bisque;
+}
+h2{
+  color:rgb(108, 78, 33);
+}
+label{
+  color:rgb(108, 78, 33);
+  font-size: 18px;
+}
+input , textarea, select{
+  font-size: 16px;
+  background-color: wheat;
+}
